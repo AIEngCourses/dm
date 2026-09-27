@@ -13,4 +13,5 @@ dependencies = [
     "pip>=26.2.1",
     "playwright>=1.62.0",
     "requests>=2.34.2",
+    "seaborn>=0.13.2",
 ]
